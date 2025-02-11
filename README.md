@@ -41,6 +41,10 @@
                 <img src="https://github.com/2030XMQiu/Aplikasi-Inventory-Toko-Java/blob/main/Screenshot%202025-02-11%20165909.png" height="300" width="600" />
             </a>
         </th>
+    </tr>
+</table>
+<table align="center">
+    <tr>
         <th style="text-align:center">
             <a href="#">
                 <img src="https://github.com/2030XMQiu/Aplikasi-Inventory-Toko-Java/blob/main/Screenshot%202025-02-11%20170002.png" height="300" width="600" />
