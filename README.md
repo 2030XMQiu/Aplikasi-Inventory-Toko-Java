@@ -38,7 +38,7 @@
     <tr>
         <th style="text-align:center">
             <a href="">
-                <img src="https://github.com/2030XMQiu/Aplikasi-Inventory-Toko-Java/blob/main/Screenshot%202025-02-11%20165909.png" height="300" width="600" />
+                <img src="https://github.com/2030XMQiu/Aplikasi-Inventory-Toko-Java/blob/main/Screenshot%202025-02-11%20165909.png" height="300" width="500" />
             </a>
         </th>
     </tr>
@@ -47,7 +47,7 @@
     <tr>
         <th style="text-align:center">
             <a href="#">
-                <img src="https://github.com/2030XMQiu/Aplikasi-Inventory-Toko-Java/blob/main/Screenshot%202025-02-11%20170002.png" height="300" width="600" />
+                <img src="https://github.com/2030XMQiu/Aplikasi-Inventory-Toko-Java/blob/main/Screenshot%202025-02-11%20170002.png" height="300" width="500" />
             </a>
         </th>
     </tr>
